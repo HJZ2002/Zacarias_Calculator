@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Zacarias_Calculator</string>
+    <string name="modulo">%</string>
+    <string name="answer">the result is</string>
 </resources>
